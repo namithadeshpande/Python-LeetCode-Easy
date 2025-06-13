@@ -1,2 +1,2 @@
-# Python-LeetCode-Easy
-This repository contains solution to the python easy problems from LeetCode
+# LeetCode Easy Problems
+This repository contains solutions to the Python easy problems from LeetCode
